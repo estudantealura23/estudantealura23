@@ -1,16 +1,14 @@
-## Hi there 👋
+## _bem vindo ao meu perfil_
+Meu nome é breno
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-<!--
-**estudantealura23/estudantealura23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Você pode entrar em contato comigo :mailbox
 
-Here are some ideas to get you started:
+brenobarbos07@gmail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@brenobarbosa01
+
+
+![descrição do GIF](link GIF do Tenor)
